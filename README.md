@@ -16,9 +16,9 @@ The center section is removable independent of the rest of the case, allowing
 easy access to the electronics without tearing apart the whole case. (Could also
 use it to swap out stickers or art or whatever.)
 
-More images are available in the [images/](images/) directory, including one
-version in MDF with a plywood top, and more photos of the edition featured above
-with lots of RGB.
+The [images](images/) directory contains photos of a unit in
+[MDF/Plywood](images/wood/README.md) and more of the [acrylic build with
+RGB](images/acrylic_rgb/README.md)
 
 # Development
 
